@@ -1,0 +1,9 @@
+version: '3.4'
+services:
+    apitest:
+        build: ApiTest/
+    bestappeva:
+        build: dockerangulartest/
+        ports:
+            - "7070:80"
+        
