@@ -260,6 +260,9 @@ paket-files/
 __pycache__/
 *.pyc
 
+#apple
+.DS_Store
+
 ## TYE
 .tye
 proces_store
