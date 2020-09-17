@@ -284,3 +284,5 @@ FencemateWeb/node_modules/
 ## everfence specific ##
 **/_log/log.txt
 **/_log/log.json
+
+docker-compose-azure.yml
